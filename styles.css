@@ -1,0 +1,39 @@
+h1{
+    color: #52616B;
+    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: caption;
+    font-size: 50px;
+    font-weight: 10;
+    
+}
+h2{
+    color: #30E3CA;
+    font-family: serif  ;
+    font: caption;
+    font-size: 25px;
+    
+}
+
+
+body{
+    background-color: #E4F9F5;
+    
+    
+}
+
+hr{ 
+    border-style: dotted;
+    height: 1px;
+    border-top: none;
+    border-bottom: none;
+}
+
+.black{
+    color: black;
+    font-weight: 10;
+
+
+}
+button{
+    background-color: #30E3CA;
+}
